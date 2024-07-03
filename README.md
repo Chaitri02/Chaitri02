@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Chaitri02
-- 👀 I’m interested in Computer Engineering and Astronomy
-- 🌱 I’m currently learning Computer Engineering
+
 
 
 <!---
